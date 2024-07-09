@@ -221,3 +221,79 @@ margin-bottom: 48px;
   box-shadow: 3px 3px 3px 3px gray;
   border: none;
 }
+
+.letest-deals{
+  max-width: 1440px;
+height: 449px;
+background-image: url(../assets/Rectangle\ 9.png);
+margin: 0 auto;
+margin-bottom: 128px;
+}
+.letest-deals-content{
+  width: 866px;
+height: 206px;
+margin: 0px auto;
+
+}
+.letest-deal-title{
+  padding-top: 122px;
+  text-align: center;
+}
+.letest-deal-title h1{
+  color: rgb(39, 39, 39);
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 16px;
+}
+.letest-deal-title h4{
+  color: rgba(39, 39, 39, 0.6);
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 48px;
+}
+.input{
+  text-align: center;
+}
+.input .email{
+  text-align: center;
+  color: rgba(39, 39, 39, 0.6);
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+padding-left: 20px;
+border: none;
+width: 600px;
+height: 64px;
+border-radius: 4px;
+}
+
+.foot{
+  background: rgb(17, 16, 16);
+ max-width: 1922px;
+height: 449px;
+margin: 0 auto;
+margin-bottom: 128px;
+text-align: center;
+}
+.foot h1{
+  color: rgb(255, 255, 255);
+  padding-top: 128px;
+}
+.foot h1 span{
+  color: rgb(229, 84, 115);
+}
+.foot h4{
+  color: rgba(255, 255, 255, 0.9);
+font-size: 18px;
+font-weight: 400;
+margin-top: 24px;
+}
+.foot p{
+  color: rgba(255, 255, 255, 0.4);
+font-size: 16px;
+font-weight: 400;
+margin-top: 32px;
+
+
+}
