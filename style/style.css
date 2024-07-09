@@ -52,3 +52,69 @@ border: none;
     height: 800px;
     margin: 50px 40px 0 0;
 }
+
+.features{
+    max-width: 1440px;
+    height: 800px;
+    margin: 0 auto;
+}
+.feature-title{
+    width: 594px;
+height: 132px;
+margin: 0 auto;
+text-align: center;
+}
+.feature-title h1{
+    color: rgb(39, 39, 39);
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 24px;
+}
+.feature-title p{
+    color: rgba(39, 39, 39, 0.6);
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 48px;
+}
+.feature-content{
+    width: 100%;
+    height: 605px;
+}
+.tree-name{
+    width: 464px;
+    height: 100%;
+}
+.tree-name h4{
+    color: rgb(39, 39, 39);
+font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+text-align: center;
+text-decoration-line: underline;
+margin-top: 32px;
+}
+.feature-pic{
+    width: 100%;
+    height: 538px;
+     border-radius:300px 300px 0 0;
+    background-color: rgba(167, 33, 98, 0.15);;
+}
+.feature-img{
+    width: 310px;
+height: 428px;
+}
+.feature-img img{
+    margin:110px 78px 0 76px;
+}
+.feature-img-7{
+    width: 324px;
+    height: 471px;
+}
+.feature-img-7 img{
+    margin:68px 78px 0 76px;
+}
+
+.feature-container{
+    display: flex;
+    margin-top: 20px;
+}
